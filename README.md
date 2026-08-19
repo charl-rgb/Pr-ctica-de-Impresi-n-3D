@@ -59,8 +59,6 @@ Se configuraron parámetros como:
 * Adhesión a la cama
 * Orientación de la pieza
 
-📷 **Evidencia de la preparación:**
-
 La preparación del modelo se realizó como parte de la configuración previa a la impresión.
 
 ---
