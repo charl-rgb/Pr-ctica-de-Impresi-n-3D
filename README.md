@@ -82,7 +82,7 @@ Se verificaron aspectos como:
 
 <div align="center">
 
-<img src="imagenes/calibracion.png" width="500" alt="Calibración de la impresora 3D">
+<img src="imagenes/calibracion.jpg" width="500" alt="Calibración de la impresora 3D">
 
 </div>
 
@@ -98,21 +98,9 @@ Durante este proceso se supervisó el funcionamiento de la impresora y la calida
 
 <div align="center">
 
-<img src="imagenes/impresion.png" width="500" alt="Proceso de impresión 3D">
+<img src="imagenes/impresion.jpeg" width="500" alt="Proceso de impresión 3D">
 
 </div>
-
----
-
-### 5️⃣ Resultado final
-
-Finalmente se obtuvo la pieza impresa en 3D.
-
-Se realizó una revisión visual del resultado para comprobar la calidad, dimensiones, acabado y posibles errores de impresión.
-
-📷 **Resultado final:**
-
-El resultado final corresponde a la pieza obtenida después del proceso de impresión 3D.
 
 ---
 
@@ -121,8 +109,8 @@ El resultado final corresponde a la pieza obtenida después del proceso de impre
 <div align="center">
 
 <img src="imagenes/modelado.png" width="30%" alt="Modelado">
-<img src="imagenes/calibracion.png" width="30%" alt="Calibración">
-<img src="imagenes/impresion.png" width="30%" alt="Impresión">
+<img src="imagenes/calibracion.jpg" width="30%" alt="Calibración">
+<img src="imagenes/impresion.jpeg" width="30%" alt="Impresión">
 
 </div>
 
