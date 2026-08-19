@@ -14,7 +14,7 @@
 
 En esta práctica se realizó el **proceso completo de fabricación de una pieza mediante impresión 3D**, comenzando desde el **modelado de la pieza en un software de diseño 3D**, continuando con la preparación del modelo para la impresión y la **calibración de la impresora 3D**, hasta obtener el resultado final.
 
-Durante la práctica se realizaron diferentes ajustes para conseguir una impresión adecuada y se documentó el proceso mediante **fotografías y videos**.
+Durante la práctica se realizaron diferentes ajustes para conseguir una impresión adecuada y se documentó el proceso mediante **fotografías**.
 
 ---
 
@@ -25,7 +25,7 @@ Durante la práctica se realizaron diferentes ajustes para conseguir una impresi
 * 📏 Realizar la calibración de la impresora 3D.
 * 🖨️ Ejecutar el proceso de impresión.
 * 🔍 Analizar el resultado obtenido.
-* 📸 Documentar todo el proceso mediante fotografías y video.
+* 📸 Documentar el proceso mediante fotografías.
 
 ---
 
@@ -37,7 +37,11 @@ Se comenzó creando el modelo de la pieza en un software de diseño 3D.
 
 📷 **Evidencia del modelado:**
 
-> Aquí colocaré las imágenes del proceso de modelado.
+<div align="center">
+
+<img src="imagenes/modelado.png" width="500" alt="Modelado 3D">
+
+</div>
 
 ---
 
@@ -57,7 +61,7 @@ Se configuraron parámetros como:
 
 📷 **Evidencia de la preparación:**
 
-> Aquí colocaré las capturas del modelo preparado para imprimir.
+La preparación del modelo se realizó como parte de la configuración previa a la impresión.
 
 ---
 
@@ -76,7 +80,11 @@ Se verificaron aspectos como:
 
 📷 **Evidencia de la calibración:**
 
-> Aquí colocaré las fotografías de la calibración.
+<div align="center">
+
+<img src="imagenes/calibracion.png" width="500" alt="Calibración de la impresora 3D">
+
+</div>
 
 ---
 
@@ -88,7 +96,11 @@ Durante este proceso se supervisó el funcionamiento de la impresora y la calida
 
 📷 **Proceso de impresión:**
 
-> Aquí colocaré las fotografías de la pieza durante la impresión.
+<div align="center">
+
+<img src="imagenes/impresion.png" width="500" alt="Proceso de impresión 3D">
+
+</div>
 
 ---
 
@@ -100,37 +112,19 @@ Se realizó una revisión visual del resultado para comprobar la calidad, dimens
 
 📷 **Resultado final:**
 
-> Aquí colocaré las fotografías de la pieza terminada.
-
----
-
-## 🎥 Video del proceso
-
-A continuación se presenta el video donde se muestra parte del proceso realizado durante la práctica.
-
-▶️ **Video de la práctica**
-
-> Aquí colocaré el video o el enlace al video.
+El resultado final corresponde a la pieza obtenida después del proceso de impresión 3D.
 
 ---
 
 ## 📸 Galería
 
-### 🧩 Modelado
+<div align="center">
 
-`/images/modelado/`
+<img src="imagenes/modelado.png" width="30%" alt="Modelado">
+<img src="imagenes/calibracion.png" width="30%" alt="Calibración">
+<img src="imagenes/impresion.png" width="30%" alt="Impresión">
 
-### ⚙️ Calibración
-
-`/images/calibracion/`
-
-### 🖨️ Impresión
-
-`/images/impresion/`
-
-### ✅ Resultado final
-
-`/images/resultado/`
+</div>
 
 ---
 
